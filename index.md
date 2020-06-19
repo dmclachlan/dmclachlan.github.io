@@ -9,7 +9,7 @@ layout: home
 ---
 This page was authored in Markdown
 
-## Sub Heading
+## Welcome
 
 This is a test web site on GitHub Pages
 
