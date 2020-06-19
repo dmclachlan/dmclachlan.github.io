@@ -1,5 +1,5 @@
 # Hello World
 
-This page was authored in markdown
+This page was authored in Markdown
 
 This is a link to [testpage](testpage.md)
