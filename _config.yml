@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "twitter_username:"
   Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: dougmclachlan
+github_username:  dmclachlan
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
